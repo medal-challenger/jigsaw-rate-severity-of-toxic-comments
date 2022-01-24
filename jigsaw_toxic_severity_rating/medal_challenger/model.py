@@ -16,7 +16,7 @@ class JigsawModel(nn.Module):
         self.drop = nn.Dropout(drop_p)
         self.first_layer = nn.Linear(
             1024 
-            if 'large' in model_name
+            if ('large' in model_name or 'distilbart' in model_name)
             else 768,
             256)
         self.fc = nn.Sequential(

@@ -13,7 +13,8 @@ BERT_MODEL_LIST = {
     "t5": "t5-base",
     "bert": "bert-base-cased",
     "toxicbert": "toxic-bert",
-    "toxic-roberta": "unbiased-toxic-roberta"
+    "toxic-roberta": "unbiased-toxic-roberta",
+    "distilbart": "distilbart-cnn-6-6",
 }
 
 SCHEDULER_LIST = {
