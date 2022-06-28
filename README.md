@@ -19,7 +19,7 @@
 ## Competition Overview
 
 ### Problem
-- Score a set of comments and rank them by their toxicity
+- Score toxicity of a set of comments and rank them
 ### Dataset
 - Ruddit Dataset
 - Jigsaw Rate Severity of Toxic Comments
@@ -31,17 +31,17 @@
 ## Result
 
 <p align="center">
-  <img src="./images/3rd.png" width=550>
+  <img src="./images/3rd.png" width=800>
 </p>
 
 - Public leaderboard
 > - 3rd of 2301
 
 <p align="center">
-  <img src="./images/800th.png" width=550>
+  <img src="./images/800th.png" width=800>
 </p>
 
-- Public leaderboard
+- Private leaderboard
 > - 800th of 2301
 
 ## Program
