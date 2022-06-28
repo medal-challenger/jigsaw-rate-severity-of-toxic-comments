@@ -1,5 +1,5 @@
 # Jigsaw Rate Severity Of Toxic Comments
----
+
 <p align="center">
   <img src="./images/jigsaw.jpg" width=550>
 </p>
@@ -28,6 +28,21 @@
 - Team Merge Deadline - 2022/01/31
 - Submission Deadline - 2022/02/07
 
+## Result
+
+<p align="center">
+  <img src="./images/3rd.png" width=550>
+</p>
+
+- Public leaderboard
+> - 3rd of 2301
+
+<p align="center">
+  <img src="./images/800th.png" width=550>
+</p>
+
+- Public leaderboard
+> - 800th of 2301
 
 ## Program
 
